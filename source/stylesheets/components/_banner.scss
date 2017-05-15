@@ -5,9 +5,12 @@
   align-items: center;
   justify-content: center;
   font-size: 30px;
-}
 
-.banner-content {
-  color: white;
-  padding: 100px;
+  .banner-content {
+    color: white;
+    padding: 100px;
+    &:hover {
+      color: $brand-color
+    }
+  }
 }
