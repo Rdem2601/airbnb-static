@@ -40,6 +40,12 @@
   background: black;
   opacity: 0;
 }
-.card-link:hover{
+.card-link:hover {
   opacity: 0.1;
+}
+
+.flats-rate {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
 }

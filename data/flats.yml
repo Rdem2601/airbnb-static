@@ -1,0 +1,55 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: images/card-paris.jpg
+  owner_picture: images/seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  rate: 9/10
+  description: Tomberg - appartement avec des finitions haut de gamme de +/- 94m2 situé au 2ème étage d'un petit immeuble de standing et à 2 min. à pied du Metro Tomberg. L'appartement se compose d'un hall d'entrée avec vestiaire, grand placard, toilette séparée, séjour de +/- 40m2 avec parquet, cuisine ouverte super équipée, 2 chambres avec parquet (15m2,11m2), salle de bains avec douche séparée, buanderie, terrasse, cave, garage fermé dans le bâtiment pour 100€. Chauffage individuelle au gaz, PEB B.
+  accomodates: 17
+  bathrooms: 4
+  bed: Small
+  real: 5
+  beds: 18
+  property: House
+  room: Small
+
+
+
+romain:
+  owner_name: Romain Paillard
+  picture: images/card-london.jpeg
+  owner_picture: images/romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  rate: 7/10
+  description: Tomberg - appartement avec des finitions haut de gamme de +/- 94m2 situé au 2ème étage d'un petit immeuble de standing et à 2 min. à pied du Metro Tomberg. L'appartement se compose d'un hall d'entrée avec vestiaire, grand placard, toilette séparée, séjour de +/- 40m2 avec parquet, cuisine ouverte super équipée, 2 chambres avec parquet (15m2,11m2), salle de bains avec douche séparée, buanderie, terrasse, cave, garage fermé dans le bâtiment pour 100€. Chauffage individuelle au gaz, PEB B.
+  accomodates: 20
+  bathrooms: 16
+  bed: small
+  real: 56
+  beds: 13
+  Property: House
+  room: Small
+
+anne:
+  owner_name: Anne Collet
+  picture: images/card-brussels.jpeg
+  owner_picture: images/anne.jpg
+  name: Anne's home
+  summary: Cool appartement in Brussels
+  city: Brussels, Belgium
+  wifi: false
+  rate: 5/10
+  description: Tomberg - appartement avec des finitions haut de gamme de +/- 94m2 situé au 2ème étage d'un petit immeuble de standing et à 2 min. à pied du Metro Tomberg. L'appartement se compose d'un hall d'entrée avec vestiaire, grand placard, toilette séparée, séjour de +/- 40m2 avec parquet, cuisine ouverte super équipée, 2 chambres avec parquet (15m2,11m2), salle de bains avec douche séparée, buanderie, terrasse, cave, garage fermé dans le bâtiment pour 100€. Chauffage individuelle au gaz, PEB B.
+  accomodates: 2
+  bathrooms: 1
+  bed: small
+  real: 1
+  beds: 27
+  property: Appartment
+  room: Big
